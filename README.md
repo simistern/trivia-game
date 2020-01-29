@@ -1,9 +1,9 @@
 
-#Trivia Game Sample
+# Trivia Game Sample
 
 #### This is a sample react native app to highlight different aspects of React Native.
 
-#####Features:
+##### Features:
 - Styled Components
 - React Navigation
 - React Native Reanimated and animatedSwitchNavigator
